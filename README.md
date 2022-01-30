@@ -1,0 +1,3 @@
+# SecurityAttackTypeDataset
+
+This is a repository of datasets used to detect security vulnerabilities and types of vulnerabilities at the function level. The difference between these datasets and previous datasets is that they are prepared separately for each type of security attack. In each set of security attacks, the number of vulnerable functions is balanced by the number of non-vulnerable functions that are extracted from some real-world projects. for example, the zip file related to the DoS attack, shows you eleven datasets. in each dataset of the first ten datasets, you can see vulnerable rows related to DoS attack and non-vulnerable rows together as balanced. note that non-vulnerable rows were extracted distributedly from some real-world projects. 
